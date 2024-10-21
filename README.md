@@ -1,6 +1,6 @@
 # Pb-Lite Edge Detection and Deep Learning Approaches
 
-![Edge Detection Overview](https://github.com/MayankD409/Pb_lite_Edge_Detection/blob/main/results/overview.gif)
+![Edge Detection Overview](Classical_Approach/results/Texton_map/TextonMap_1.jpg)
 
 ## Table of Contents
 - [Overview](#overview)
